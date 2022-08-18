@@ -1,0 +1,11 @@
+.App {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  font-family: "Aboreto", sans-serif;
+  background-color: antiquewhite;
+}
